@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2022-11-02T22:13:31.626Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="nhW6VVGKnwQ7U4O43ZB6" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-02T22:16:08.502Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="BwQrrR_XEqkD9_u3Vcrc" version="20.5.1" type="github">
   <diagram name="Page-1" id="9c096ad6-e400-ecc8-3e38-643d2caac077">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="827" pageHeight="583" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="SyCh86fztDe2KE6wsMSK-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="200" width="160" height="120" as="geometry" />
+          <mxGeometry x="935" y="217" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="460" y="200" width="160" height="280" as="geometry" />
+          <mxGeometry x="145" y="217" width="160" height="280" as="geometry" />
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="680" y="200" width="490" height="560" as="geometry" />
+          <mxGeometry x="365" y="217" width="490" height="560" as="geometry" />
         </mxCell>
         <mxCell id="30e23a8a0b95c500-1" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;Армия&lt;/i&gt;&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;font color=&quot;#ea6b66&quot;&gt;&lt;b&gt;Командир: Генерал&lt;/b&gt;&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;Замещает: Выборный Майор&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#FF0000;fillColor=#f5f5f5;overflow=fill;rounded=0;shadow=1;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="970" y="240" width="190" height="60" as="geometry" />
+          <mxGeometry x="655" y="257" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3cfceab9cabfe5b9-59" value="" style="line;strokeWidth=1;html=1;rounded=1;fontSize=12;align=center;verticalAlign=middle;strokeColor=#FF0000;endFill=1;endArrow=classic;endSize=10;startSize=10;" parent="1" vertex="1">
           <mxGeometry x="87" y="1105" width="68" height="10" as="geometry" />
@@ -31,19 +31,19 @@
         <mxCell id="SyCh86fztDe2KE6wsMSK-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SyCh86fztDe2KE6wsMSK-1" target="SyCh86fztDe2KE6wsMSK-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="907" y="190" />
-              <mxPoint x="1330" y="190" />
+              <mxPoint x="592" y="207" />
+              <mxPoint x="1015" y="207" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-1" value="Коммандор" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="817" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="502" y="97" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SyCh86fztDe2KE6wsMSK-2" target="SyCh86fztDe2KE6wsMSK-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-2" value="Координатор логистики" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="165" y="257" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SyCh86fztDe2KE6wsMSK-4" target="SyCh86fztDe2KE6wsMSK-8">
           <mxGeometry relative="1" as="geometry" />
@@ -55,124 +55,124 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-4" value="Армия&lt;br&gt;&lt;hr&gt;&lt;i&gt;Правило трёх&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="817" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="502" y="257" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SyCh86fztDe2KE6wsMSK-8" target="SyCh86fztDe2KE6wsMSK-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-8" value="Дивизия" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="817" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="502" y="337" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SyCh86fztDe2KE6wsMSK-10" target="SyCh86fztDe2KE6wsMSK-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-10" value="Полк" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="817" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="502" y="417" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SyCh86fztDe2KE6wsMSK-12" target="SyCh86fztDe2KE6wsMSK-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-12" value="Батальон" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="817" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="502" y="497" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="SyCh86fztDe2KE6wsMSK-14" target="SyCh86fztDe2KE6wsMSK-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-14" value="Отделение/экипаж" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="817" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="502" y="577" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SyCh86fztDe2KE6wsMSK-16" target="SyCh86fztDe2KE6wsMSK-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-16" value="Старший логист" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="165" y="337" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="SyCh86fztDe2KE6wsMSK-18" target="SyCh86fztDe2KE6wsMSK-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-18" value="Рядовой логист" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="165" y="417" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="877" y="380" as="sourcePoint" />
-            <mxPoint x="907" y="400" as="targetPoint" />
+            <mxPoint x="562" y="397" as="sourcePoint" />
+            <mxPoint x="592" y="417" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="877" y="380" as="sourcePoint" />
-            <mxPoint x="847.0000000000002" y="400" as="targetPoint" />
+            <mxPoint x="562" y="397" as="sourcePoint" />
+            <mxPoint x="532.0000000000002" y="417" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="877" y="460" as="sourcePoint" />
-            <mxPoint x="907" y="480" as="targetPoint" />
+            <mxPoint x="562" y="477" as="sourcePoint" />
+            <mxPoint x="592" y="497" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="877" y="460" as="sourcePoint" />
-            <mxPoint x="847.0000000000002" y="480" as="targetPoint" />
+            <mxPoint x="562" y="477" as="sourcePoint" />
+            <mxPoint x="532.0000000000002" y="497" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="877" y="540" as="sourcePoint" />
-            <mxPoint x="907" y="560" as="targetPoint" />
+            <mxPoint x="562" y="557" as="sourcePoint" />
+            <mxPoint x="592" y="577" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="877" y="540" as="sourcePoint" />
-            <mxPoint x="847.0000000000002" y="560" as="targetPoint" />
+            <mxPoint x="562" y="557" as="sourcePoint" />
+            <mxPoint x="532.0000000000002" y="577" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-34" value="Специальные роли" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="955" y="257" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-37" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;Дивизия&lt;/i&gt;&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;font color=&quot;#ea6b66&quot;&gt;&lt;b&gt;Командир: Майор&lt;/b&gt;&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;Замещает: Выборный Полковник&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#FF0000;fillColor=#f5f5f5;overflow=fill;rounded=0;shadow=1;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="970" y="320" width="190" height="60" as="geometry" />
+          <mxGeometry x="655" y="337" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-38" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;Полк&lt;/i&gt;&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;font color=&quot;#ea6b66&quot;&gt;&lt;b&gt;Командир: Полковник&lt;/b&gt;&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;Замещает: Выборный Сержант&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#FF0000;fillColor=#f5f5f5;overflow=fill;rounded=0;shadow=1;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="970" y="400" width="190" height="60" as="geometry" />
+          <mxGeometry x="655" y="417" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-39" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;Батальон&lt;/i&gt;&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;font color=&quot;#ea6b66&quot;&gt;&lt;b&gt;Командир: Сержант&lt;/b&gt;&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;Замещает: Выборный&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#FF0000;fillColor=#f5f5f5;overflow=fill;rounded=0;shadow=1;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="970" y="480" width="190" height="60" as="geometry" />
+          <mxGeometry x="655" y="497" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#EA6B66;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SyCh86fztDe2KE6wsMSK-40" target="SyCh86fztDe2KE6wsMSK-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-40" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;Отделение/экипаж&lt;/i&gt;&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;font color=&quot;#ea6b66&quot;&gt;&lt;b&gt;Командир: Младший Сержант&lt;/b&gt;&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Замещает: Капрал&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#FF0000;fillColor=#f5f5f5;overflow=fill;rounded=0;shadow=1;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="970" y="560" width="190" height="60" as="geometry" />
+          <mxGeometry x="655" y="577" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-41" value="&lt;font color=&quot;#000000&quot;&gt;Основа армии:&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Капрал (опытный солдат)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Рядовой (солдат)&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;overflow=fill;rounded=0;shadow=1;fontSize=12;align=center;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="877" y="690" width="190" height="50" as="geometry" />
+          <mxGeometry x="562" y="707" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;shape=link;" edge="1" parent="1" source="SyCh86fztDe2KE6wsMSK-45" target="SyCh86fztDe2KE6wsMSK-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-45" value="500 - 1000 человек" style="shape=or;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="700" y="235" width="70" height="70" as="geometry" />
+          <mxGeometry x="385" y="252" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-50" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="SyCh86fztDe2KE6wsMSK-47" target="SyCh86fztDe2KE6wsMSK-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-47" value="150 - 330 человек" style="shape=or;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="700" y="315" width="70" height="70" as="geometry" />
+          <mxGeometry x="385" y="332" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-51" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="SyCh86fztDe2KE6wsMSK-48" target="SyCh86fztDe2KE6wsMSK-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-48" value="50 - 100 человек" style="shape=or;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="700" y="395" width="70" height="70" as="geometry" />
+          <mxGeometry x="385" y="412" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-52" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="SyCh86fztDe2KE6wsMSK-49" target="SyCh86fztDe2KE6wsMSK-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-49" value="15 - 30 человек" style="shape=or;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="700" y="475" width="70" height="70" as="geometry" />
+          <mxGeometry x="385" y="492" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
