@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-11-02T21:49:44.760Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="c2tXW_hSxnvy7l6ZSOL9" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-02T21:52:44.557Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="8_jM5i-pPUwE4xwOUgaQ" version="20.5.1" type="github">
   <diagram name="Page-1" id="9c096ad6-e400-ecc8-3e38-643d2caac077">
     <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="SyCh86fztDe2KE6wsMSK-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="200" width="160" height="120" as="geometry" />
+        </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="560" y="200" width="160" height="280" as="geometry" />
         </mxCell>
@@ -24,6 +27,14 @@
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SyCh86fztDe2KE6wsMSK-1" target="SyCh86fztDe2KE6wsMSK-4">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SyCh86fztDe2KE6wsMSK-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SyCh86fztDe2KE6wsMSK-1" target="SyCh86fztDe2KE6wsMSK-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="907" y="190" />
+              <mxPoint x="1100" y="190" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="SyCh86fztDe2KE6wsMSK-1" value="Коммандор" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="817" y="80" width="120" height="60" as="geometry" />
@@ -114,6 +125,9 @@
             <mxPoint x="877" y="540" as="sourcePoint" />
             <mxPoint x="847.0000000000002" y="560" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SyCh86fztDe2KE6wsMSK-34" value="Специальные роли" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
